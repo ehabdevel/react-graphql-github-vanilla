@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.THUMBS_UP {
+    background: url(/img/thumup.png) 50% 50% no-repeat;
+    background-size: contain;
+    display: inline-block;
+    color: rgba(255, 255, 255, .0);
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.HEART {
+    background: url(/img/heart.png) 50% 50% no-repeat;
+    background-size: contain;
+    display: inline-block;
+    color: rgba(255, 255, 255, .0);
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.HOORAY {
+    background: url(/img/hooray.png) 50% 50% no-repeat;
+    background-size: contain;
+    display: inline-block;
+    color: rgba(255, 255, 255, .0);
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.THUMBS_DOWN	{
+    background: url(/img/thumbdown.png) 50% 50% no-repeat;
+    background-size: contain;
+    display: inline-block;
+    color: rgba(255, 255, 255, .0);
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.LAUGH	{
+    background: url(/img/laugh.png) 50% 50% no-repeat;
+    background-size: contain;
+    display: inline-block;
+    color: rgba(255, 255, 255, .0);
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.CONFUSED	{
+    background: url(/img/confused.png) 50% 50% no-repeat;
+    background-size: contain;
+    display: inline-block;
+    color: rgba(255, 255, 255, .0);
+    font: normal normal normal 16px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#footer {
+    margin-top: 3em;
+}
